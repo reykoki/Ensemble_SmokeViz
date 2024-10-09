@@ -1,0 +1,17 @@
+torch
+ray
+segmentation-models-pytorch
+matplotlib
+scikit-image
+wget
+geopandas
+pytz
+suntime
+s3fs
+segmentation-models-pytorch
+pyresample
+satpy
+pyspectral
+cartopy
+rasterio
+netcdf4
