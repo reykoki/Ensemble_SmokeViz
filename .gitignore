@@ -2,3 +2,10 @@
 *tif
 *zip
 __pycache__
+*.cpg
+*.dbf
+*.prj
+*.qmd
+*.shp
+*.shx
+
